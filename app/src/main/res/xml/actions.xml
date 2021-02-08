@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<action intentName="custom.actions.intent.TRACK_ORDER" queryPatterns="@array/track_order_queries">
+    <fulfillment
+        fulfillmentMode="actions.fulfillment.SLICE"
+        urlTemplate="content://com.tronku.slicetest/track">
+    </fulfillment>
+</action>

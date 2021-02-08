@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="track_order_queries">
+        <item>check my (last)? order on ResApp</item>
+        <item>where is my order on ResApp?</item>
+        <item>track my order on ResApp</item>
+        <item>where is my ResApp delivery guy?</item>
+        <item>where is my food on ResApp?</item>
+        <item>order status on ResApp</item>
+    </string-array>
+
+</resources>
